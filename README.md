@@ -8,7 +8,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomLabels
 **DirName:** labels
@@ -17,7 +19,9 @@
 **InFolder:** false
 **ChildObjects:** CustomLabel
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** StaticResource
 **DirName:** staticresources
@@ -26,7 +30,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Scontrol
 **DirName:** scontrols
@@ -35,7 +41,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Certificate
 **DirName:** certs
@@ -44,7 +52,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** AuraDefinitionBundle
 **DirName:** aura
@@ -53,7 +63,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ApexComponent
 **DirName:** components
@@ -62,7 +74,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ApexPage
 **DirName:** pages
@@ -71,7 +85,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Queue
 **DirName:** queues
@@ -80,7 +96,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ExternalDataSource
 **DirName:** dataSources
@@ -89,7 +107,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** NamedCredential
 **DirName:** namedCredentials
@@ -98,7 +118,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ExternalServiceRegistration
 **DirName:** externalServiceRegistrations
@@ -107,7 +129,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Role
 **DirName:** roles
@@ -116,7 +140,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Group
 **DirName:** groups
@@ -125,7 +151,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** GlobalValueSet
 **DirName:** globalValueSets
@@ -134,7 +162,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** StandardValueSet
 **DirName:** standardValueSets
@@ -143,7 +173,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomPermission
 **DirName:** customPermissions
@@ -152,7 +184,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomObject
 **DirName:** objects
@@ -161,7 +195,9 @@
 **InFolder:** false
 **ChildObjects:** CustomField,BusinessProcess,CompactLayout,RecordType,WebLink,ValidationRule,SharingReason,ListView,FieldSet
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ReportType
 **DirName:** reportTypes
@@ -170,7 +206,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Report
 **DirName:** reports
@@ -179,7 +217,9 @@
 **InFolder:** true
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Dashboard
 **DirName:** dashboards
@@ -188,7 +228,9 @@
 **InFolder:** true
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** AnalyticSnapshot
 **DirName:** analyticSnapshots
@@ -197,7 +239,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomFeedFilter
 **DirName:** feedFilters
@@ -206,7 +250,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Layout
 **DirName:** layouts
@@ -215,7 +261,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Document
 **DirName:** documents
@@ -224,7 +272,9 @@
 **InFolder:** true
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomPageWebLink
 **DirName:** weblinks
@@ -233,7 +283,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Letterhead
 **DirName:** letterhead
@@ -242,7 +294,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** EmailTemplate
 **DirName:** email
@@ -251,7 +305,9 @@
 **InFolder:** true
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** QuickAction
 **DirName:** quickActions
@@ -260,7 +316,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** FlexiPage
 **DirName:** flexipages
@@ -269,7 +327,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomTab
 **DirName:** tabs
@@ -278,7 +338,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomApplicationComponent
 **DirName:** customApplicationComponents
@@ -287,7 +349,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomApplication
 **DirName:** applications
@@ -296,7 +360,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** EmbeddedServiceConfig
 **DirName:** EmbeddedServiceConfig
@@ -305,7 +371,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** EmbeddedServiceLiveAgent
 **DirName:** EmbeddedServiceLiveAgent
@@ -314,7 +382,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** EmbeddedServiceBranding
 **DirName:** EmbeddedServiceBranding
@@ -323,7 +393,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Flow
 **DirName:** flows
@@ -332,7 +404,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** FlowDefinition
 **DirName:** flowDefinitions
@@ -341,7 +415,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Workflow
 **DirName:** workflows
@@ -350,7 +426,9 @@
 **InFolder:** false
 **ChildObjects:** WorkflowFieldUpdate,WorkflowKnowledgePublish,WorkflowTask,WorkflowAlert,WorkflowSend,WorkflowOutboundMessage,WorkflowRule
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** AssignmentRules
 **DirName:** assignmentRules
@@ -359,7 +437,9 @@
 **InFolder:** false
 **ChildObjects:** AssignmentRule,
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** AutoResponseRules
 **DirName:** autoResponseRules
@@ -368,7 +448,9 @@
 **InFolder:** false
 **ChildObjects:** AutoResponseRule,
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** EscalationRules
 **DirName:** escalationRules
@@ -377,7 +459,9 @@
 **InFolder:** false
 **ChildObjects:** EscalationRule,
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** PostTemplate
 **DirName:** postTemplates
@@ -386,7 +470,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ApprovalProcess
 **DirName:** approvalProcesses
@@ -395,7 +481,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** HomePageComponent
 **DirName:** homePageComponents
@@ -404,7 +492,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** HomePageLayout
 **DirName:** homePageLayouts
@@ -413,7 +503,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomObjectTranslation
 **DirName:** objectTranslations
@@ -422,7 +514,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** GlobalValueSetTranslation
 **DirName:** globalValueSetTranslations
@@ -431,7 +525,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** StandardValueSetTranslation
 **DirName:** standardValueSetTranslations
@@ -440,7 +536,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ApexClass
 **DirName:** classes
@@ -449,7 +547,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ApexTrigger
 **DirName:** triggers
@@ -458,7 +558,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ApexTestSuite
 **DirName:** testSuites
@@ -467,7 +569,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Profile
 **DirName:** profiles
@@ -476,7 +580,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** PermissionSet
 **DirName:** permissionsets
@@ -485,7 +591,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomMetadata
 **DirName:** customMetadata
@@ -494,7 +602,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** DataCategoryGroup
 **DirName:** datacategorygroups
@@ -503,7 +613,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** RemoteSiteSetting
 **DirName:** remoteSiteSettings
@@ -512,7 +624,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CspTrustedSite
 **DirName:** cspTrustedSites
@@ -521,7 +635,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** MatchingRules
 **DirName:** matchingRules
@@ -530,7 +646,9 @@
 **InFolder:** false
 **ChildObjects:** MatchingRule
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** DuplicateRule
 **DirName:** duplicateRules
@@ -539,7 +657,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CleanDataService
 **DirName:** cleanDataServices
@@ -548,7 +668,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** AuthProvider
 **DirName:** authproviders
@@ -557,7 +679,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** EclairGeoData
 **DirName:** eclair
@@ -566,7 +690,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CustomSite
 **DirName:** sites
@@ -575,7 +701,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ChannelLayout
 **DirName:** channelLayouts
@@ -584,7 +712,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ContentAsset
 **DirName:** contentassets
@@ -593,7 +723,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** SharingRules
 **DirName:** sharingRules
@@ -602,7 +734,9 @@
 **InFolder:** false
 **ChildObjects:** SharingOwnerRule,SharingCriteriaRule
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Community
 **DirName:** communities
@@ -611,7 +745,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CallCenter
 **DirName:** callCenters
@@ -620,7 +756,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** MilestoneType
 **DirName:** milestoneTypes
@@ -629,7 +767,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** EntitlementProcess
 **DirName:** entitlementProcesses
@@ -638,7 +778,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** EntitlementTemplate
 **DirName:** entitlementTemplates
@@ -647,7 +789,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ConnectedApp
 **DirName:** connectedApps
@@ -656,7 +800,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** AppMenu
 **DirName:** appMenus
@@ -665,7 +811,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** DelegateGroup
 **DirName:** delegateGroups
@@ -674,7 +822,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** SiteDotCom
 **DirName:** siteDotComSites
@@ -683,7 +833,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Network
 **DirName:** networks
@@ -692,7 +844,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CommunityThemeDefinition
 **DirName:** communityThemeDefinitions
@@ -701,7 +855,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CommunityTemplateDefinition
 **DirName:** communityTemplateDefinitions
@@ -710,7 +866,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ManagedTopics
 **DirName:** managedTopics
@@ -719,7 +877,9 @@
 **InFolder:** false
 **ChildObjects:** ManagedTopic
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** KeywordList
 **DirName:** moderation
@@ -728,7 +888,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** UserCriteria
 **DirName:** userCriteria
@@ -737,7 +899,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ModerationRule
 **DirName:** moderation
@@ -746,7 +910,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** SamlSsoConfig
 **DirName:** samlssoconfigs
@@ -755,7 +921,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** CorsWhitelistOrigin
 **DirName:** corsWhitelistOrigins
@@ -764,7 +932,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** ActionLinkGroupTemplate
 **DirName:** actionLinkGroupTemplates
@@ -773,7 +943,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Skill
 **DirName:** skills
@@ -782,7 +954,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** LiveChatDeployment
 **DirName:** liveChatDeployments
@@ -791,7 +965,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** LiveChatButton
 **DirName:** liveChatButtons
@@ -800,7 +976,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** LiveChatAgentConfig
 **DirName:** liveChatAgentConfigs
@@ -809,7 +987,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** SynonymDictionary
 **DirName:** synonymDictionaries
@@ -818,7 +998,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** PathAssistant
 **DirName:** pathAssistants
@@ -827,7 +1009,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** LeadConvertSettings
 **DirName:** LeadConvertSettings
@@ -836,7 +1020,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** LiveChatSensitiveDataRule
 **DirName:** liveChatSensitiveDataRule
@@ -845,7 +1031,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** PlatformCachePartition
 **DirName:** cachePartitions
@@ -854,7 +1042,9 @@
 **InFolder:** false
 **ChildObjects:** 
 
+<br/>
 ------------
+<br/>
 
 **XMLName:** Settings
 **DirName:** settings
