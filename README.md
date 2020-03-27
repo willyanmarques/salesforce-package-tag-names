@@ -1,1055 +1,864 @@
 
 ##  Salesforce XML Tag Names
 
-**XMLName:** InstalledPackage
-**DirName:** installedPackages
-**Suffix:** installedPackage
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** InstalledPackage<br/>
+**DirName:** installedPackages<br/>
+**Suffix:** installedPackage<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomLabels
-**DirName:** labels
-**Suffix:** labels
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** CustomLabel
+**XMLName:** CustomLabels<br/>
+**DirName:** labels<br/>
+**Suffix:** labels<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** CustomLabel<br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** StaticResource
-**DirName:** staticresources
-**Suffix:** resource
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** StaticResource<br/>
+**DirName:** staticresources<br/>
+**Suffix:** resource<br/>
+**HasMetaFile:** true<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Scontrol
-**DirName:** scontrols
-**Suffix:** scf
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Scontrol<br/>
+**DirName:** scontrols<br/>
+**Suffix:** scf<br/>
+**HasMetaFile:** true<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Certificate
-**DirName:** certs
-**Suffix:** crt
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Certificate<br/>
+**DirName:** certs<br/>
+**Suffix:** crt<br/>
+**HasMetaFile:** true<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** AuraDefinitionBundle
-**DirName:** aura
-**Suffix:** null
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** AuraDefinitionBundle<br/>
+**DirName:** aura<br/>
+**Suffix:** null<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ApexComponent
-**DirName:** components
-**Suffix:** component
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ApexComponent<br/>
+**DirName:** components<br/>
+**Suffix:** component<br/>
+**HasMetaFile:** true<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ApexPage
-**DirName:** pages
-**Suffix:** page
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ApexPage<br/>
+**DirName:** pages<br/>
+**Suffix:** page<br/>
+**HasMetaFile:** true<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Queue
-**DirName:** queues
-**Suffix:** queue
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Queue<br/>
+**DirName:** queues<br/>
+**Suffix:** queue<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ExternalDataSource
-**DirName:** dataSources
-**Suffix:** dataSource
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ExternalDataSource<br/>
+**DirName:** dataSources<br/>
+**Suffix:** dataSource<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** NamedCredential
-**DirName:** namedCredentials
-**Suffix:** namedCredential
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** NamedCredential<br/>
+**DirName:** namedCredentials<br/>
+**Suffix:** namedCredential<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ExternalServiceRegistration
-**DirName:** externalServiceRegistrations
-**Suffix:** externalServiceRegistration
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ExternalServiceRegistration<br/>
+**DirName:** externalServiceRegistrations<br/>
+**Suffix:** externalServiceRegistration<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Role
-**DirName:** roles
-**Suffix:** role
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Role<br/>
+**DirName:** roles<br/>
+**Suffix:** role<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Group
-**DirName:** groups
-**Suffix:** group
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Group<br/>
+**DirName:** groups<br/>
+**Suffix:** group<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** GlobalValueSet
-**DirName:** globalValueSets
-**Suffix:** globalValueSet
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** GlobalValueSet<br/>
+**DirName:** globalValueSets<br/>
+**Suffix:** globalValueSet<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** StandardValueSet
-**DirName:** standardValueSets
-**Suffix:** standardValueSet
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** StandardValueSet<br/>
+**DirName:** standardValueSets<br/>
+**Suffix:** standardValueSet<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomPermission
-**DirName:** customPermissions
-**Suffix:** customPermission
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CustomPermission<br/>
+**DirName:** customPermissions<br/>
+**Suffix:** customPermission<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomObject
-**DirName:** objects
-**Suffix:** object
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** CustomField,BusinessProcess,CompactLayout,RecordType,WebLink,ValidationRule,SharingReason,ListView,FieldSet
+**XMLName:** CustomObject<br/>
+**DirName:** objects<br/>
+**Suffix:** object<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** CustomField,BusinessProcess,CompactLayout,RecordType,WebLink,ValidationRule,SharingReason,ListView,FieldSet<br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ReportType
-**DirName:** reportTypes
-**Suffix:** reportType
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ReportType<br/>
+**DirName:** reportTypes<br/>
+**Suffix:** reportType<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Report
-**DirName:** reports
-**Suffix:** report
-**HasMetaFile:** false
-**InFolder:** true
-**ChildObjects:** 
+**XMLName:** Report<br/>
+**DirName:** reports<br/>
+**Suffix:** report<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** true<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Dashboard
-**DirName:** dashboards
-**Suffix:** dashboard
-**HasMetaFile:** false
-**InFolder:** true
-**ChildObjects:** 
+**XMLName:** Dashboard<br/>
+**DirName:** dashboards<br/>
+**Suffix:** dashboard<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** true<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** AnalyticSnapshot
-**DirName:** analyticSnapshots
-**Suffix:** snapshot
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** AnalyticSnapshot<br/>
+**DirName:** analyticSnapshots<br/>
+**Suffix:** snapshot<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomFeedFilter
-**DirName:** feedFilters
-**Suffix:** feedFilter
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CustomFeedFilter<br/>
+**DirName:** feedFilters<br/>
+**Suffix:** feedFilter<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Layout
-**DirName:** layouts
-**Suffix:** layout
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Layout<br/>
+**DirName:** layouts<br/>
+**Suffix:** layout<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Document
-**DirName:** documents
-**Suffix:** null
-**HasMetaFile:** true
-**InFolder:** true
-**ChildObjects:** 
+**XMLName:** Document<br/>
+**DirName:** documents<br/>
+**Suffix:** null<br/>
+**HasMetaFile:** true<br/>
+**InFolder:** true<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomPageWebLink
-**DirName:** weblinks
-**Suffix:** weblink
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CustomPageWebLink<br/>
+**DirName:** weblinks<br/>
+**Suffix:** weblink<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Letterhead
-**DirName:** letterhead
-**Suffix:** letter
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Letterhead<br/>
+**DirName:** letterhead<br/>
+**Suffix:** letter<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** EmailTemplate
-**DirName:** email
-**Suffix:** email
-**HasMetaFile:** true
-**InFolder:** true
-**ChildObjects:** 
+**XMLName:** EmailTemplate<br/>
+**DirName:** email<br/>
+**Suffix:** email<br/>
+**HasMetaFile:** true<br/>
+**InFolder:** true<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** QuickAction
-**DirName:** quickActions
-**Suffix:** quickAction
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** QuickAction<br/>
+**DirName:** quickActions<br/>
+**Suffix:** quickAction<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** FlexiPage
-**DirName:** flexipages
-**Suffix:** flexipage
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** FlexiPage<br/>
+**DirName:** flexipages<br/>
+**Suffix:** flexipage<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomTab
-**DirName:** tabs
-**Suffix:** tab
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CustomTab<br/>
+**DirName:** tabs<br/>
+**Suffix:** tab<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomApplicationComponent
-**DirName:** customApplicationComponents
-**Suffix:** customApplicationComponent
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CustomApplicationComponent<br/>
+**DirName:** customApplicationComponents<br/>
+**Suffix:** customApplicationComponent<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomApplication
-**DirName:** applications
-**Suffix:** app
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CustomApplication<br/>
+**DirName:** applications<br/>
+**Suffix:** app<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** EmbeddedServiceConfig
-**DirName:** EmbeddedServiceConfig
-**Suffix:** EmbeddedServiceConfig
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** EmbeddedServiceConfig<br/>
+**DirName:** EmbeddedServiceConfig<br/>
+**Suffix:** EmbeddedServiceConfig<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** EmbeddedServiceLiveAgent
-**DirName:** EmbeddedServiceLiveAgent
-**Suffix:** EmbeddedServiceLiveAgent
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** EmbeddedServiceLiveAgent<br/>
+**DirName:** EmbeddedServiceLiveAgent<br/>
+**Suffix:** EmbeddedServiceLiveAgent<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** EmbeddedServiceBranding
-**DirName:** EmbeddedServiceBranding
-**Suffix:** EmbeddedServiceBranding
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** EmbeddedServiceBranding<br/>
+**DirName:** EmbeddedServiceBranding<br/>
+**Suffix:** EmbeddedServiceBranding<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Flow
-**DirName:** flows
-**Suffix:** flow
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Flow<br/>
+**DirName:** flows<br/>
+**Suffix:** flow<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** FlowDefinition
-**DirName:** flowDefinitions
-**Suffix:** flowDefinition
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** FlowDefinition<br/>
+**DirName:** flowDefinitions<br/>
+**Suffix:** flowDefinition<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Workflow
-**DirName:** workflows
-**Suffix:** workflow
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** WorkflowFieldUpdate,WorkflowKnowledgePublish,WorkflowTask,WorkflowAlert,WorkflowSend,WorkflowOutboundMessage,WorkflowRule
+**XMLName:** Workflow<br/>
+**DirName:** workflows<br/>
+**Suffix:** workflow<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** WorkflowFieldUpdate,WorkflowKnowledgePublish,WorkflowTask,WorkflowAlert,WorkflowSend,WorkflowOutboundMessage,WorkflowRule<br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** AssignmentRules
-**DirName:** assignmentRules
-**Suffix:** assignmentRules
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** AssignmentRule,
+**XMLName:** AssignmentRules<br/>
+**DirName:** assignmentRules<br/>
+**Suffix:** assignmentRules<br/>
+**HasMetaFile:** false<br/>
+**InFolder:** false<br/>
+**ChildObjects:** AssignmentRule <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** AutoResponseRules
-**DirName:** autoResponseRules
-**Suffix:** autoResponseRules
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** AutoResponseRule,
+**XMLName:** AutoResponseRules <br/>
+**DirName:** autoResponseRules <br/>
+**Suffix:** autoResponseRules <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:** AutoResponseRule <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** EscalationRules
-**DirName:** escalationRules
-**Suffix:** escalationRules
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** EscalationRule,
+**XMLName:** EscalationRules <br/>
+**DirName:** escalationRules <br/>
+**Suffix:** escalationRules <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:** EscalationRule <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** PostTemplate
-**DirName:** postTemplates
-**Suffix:** postTemplate
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** PostTemplate <br/>
+**DirName:** postTemplates <br/>
+**Suffix:** postTemplate <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ApprovalProcess
-**DirName:** approvalProcesses
-**Suffix:** approvalProcess
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ApprovalProcess <br/>
+**DirName:** approvalProcesses <br/>
+**Suffix:** approvalProcess <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** HomePageComponent
-**DirName:** homePageComponents
-**Suffix:** homePageComponent
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** HomePageComponent <br/>
+**DirName:** homePageComponents <br/>
+**Suffix:** homePageComponent <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** HomePageLayout
-**DirName:** homePageLayouts
-**Suffix:** homePageLayout
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** HomePageLayout <br/>
+**DirName:** homePageLayouts <br/>
+**Suffix:** homePageLayout <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomObjectTranslation
-**DirName:** objectTranslations
-**Suffix:** objectTranslation
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CustomObjectTranslation <br/>
+**DirName:** objectTranslations <br/>
+**Suffix:** objectTranslation <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** GlobalValueSetTranslation
-**DirName:** globalValueSetTranslations
-**Suffix:** globalValueSetTranslation
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** GlobalValueSetTranslation <br/>
+**DirName:** globalValueSetTranslations <br/>
+**Suffix:** globalValueSetTranslation <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** StandardValueSetTranslation
-**DirName:** standardValueSetTranslations
-**Suffix:** standardValueSetTranslation
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** StandardValueSetTranslation <br/>
+**DirName:** standardValueSetTranslations <br/>
+**Suffix:** standardValueSetTranslation <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ApexClass
-**DirName:** classes
-**Suffix:** cls
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ApexClass <br/>
+**DirName:** classes <br/>
+**Suffix:** cls <br/>
+**HasMetaFile:** true <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ApexTrigger
-**DirName:** triggers
-**Suffix:** trigger
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ApexTrigger <br/>
+**DirName:** triggers <br/>
+**Suffix:** trigger <br/>
+**HasMetaFile:** true <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ApexTestSuite
-**DirName:** testSuites
-**Suffix:** testSuite
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ApexTestSuite <br/>
+**DirName:** testSuites <br/>
+**Suffix:** testSuite <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Profile
-**DirName:** profiles
-**Suffix:** profile
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Profile <br/>
+**DirName:** profiles <br/>
+**Suffix:** profile <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** PermissionSet
-**DirName:** permissionsets
-**Suffix:** permissionset
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** PermissionSet <br/>
+**DirName:** permissionsets <br/>
+**Suffix:** permissionset <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomMetadata
-**DirName:** customMetadata
-**Suffix:** md
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CustomMetadata <br/>
+**DirName:** customMetadata <br/>
+**Suffix:** md <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** DataCategoryGroup
-**DirName:** datacategorygroups
-**Suffix:** datacategorygroup
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** DataCategoryGroup <br/>
+**DirName:** datacategorygroups <br/>
+**Suffix:** datacategorygroup <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** RemoteSiteSetting
-**DirName:** remoteSiteSettings
-**Suffix:** remoteSite
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** RemoteSiteSetting <br/>
+**DirName:** remoteSiteSettings <br/>
+**Suffix:** remoteSite <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CspTrustedSite
-**DirName:** cspTrustedSites
-**Suffix:** cspTrustedSite
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CspTrustedSite <br/>
+**DirName:** cspTrustedSites <br/>
+**Suffix:** cspTrustedSite <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** MatchingRules
-**DirName:** matchingRules
-**Suffix:** matchingRule
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** MatchingRule
+**XMLName:** MatchingRules <br/>
+**DirName:** matchingRules <br/>
+**Suffix:** matchingRule <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:** MatchingRule <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** DuplicateRule
-**DirName:** duplicateRules
-**Suffix:** duplicateRule
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** DuplicateRule <br/>
+**DirName:** duplicateRules <br/>
+**Suffix:** duplicateRule <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CleanDataService
-**DirName:** cleanDataServices
-**Suffix:** cleanDataService
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CleanDataService <br/>
+**DirName:** cleanDataServices <br/>
+**Suffix:** cleanDataService <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** AuthProvider
-**DirName:** authproviders
-**Suffix:** authprovider
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** AuthProvider <br/>
+**DirName:** authproviders <br/>
+**Suffix:** authprovider <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** EclairGeoData
-**DirName:** eclair
-**Suffix:** geodata
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** EclairGeoData <br/>
+**DirName:** eclair <br/>
+**Suffix:** geodata <br/>
+**HasMetaFile:** true <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CustomSite
-**DirName:** sites
-**Suffix:** site
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CustomSite <br/>
+**DirName:** sites <br/>
+**Suffix:** site <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ChannelLayout
-**DirName:** channelLayouts
-**Suffix:** channelLayout
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ChannelLayout <br/>
+**DirName:** channelLayouts <br/>
+**Suffix:** channelLayout <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ContentAsset
-**DirName:** contentassets
-**Suffix:** asset
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ContentAsset <br/>
+**DirName:** contentassets <br/>
+**Suffix:** asset <br/>
+**HasMetaFile:** true <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** SharingRules
-**DirName:** sharingRules
-**Suffix:** sharingRules
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** SharingOwnerRule,SharingCriteriaRule
+**XMLName:** SharingRules <br/>
+**DirName:** sharingRules <br/>
+**Suffix:** sharingRules <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:** SharingOwnerRule,SharingCriteriaRule <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Community
-**DirName:** communities
-**Suffix:** community
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Community <br/>
+**DirName:** communities <br/>
+**Suffix:** community <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CallCenter
-**DirName:** callCenters
-**Suffix:** callCenter
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CallCenter <br/>
+**DirName:** callCenters <br/>
+**Suffix:** callCenter <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** MilestoneType
-**DirName:** milestoneTypes
-**Suffix:** milestoneType
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** MilestoneType <br/>
+**DirName:** milestoneTypes <br/>
+**Suffix:** milestoneType <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** EntitlementProcess
-**DirName:** entitlementProcesses
-**Suffix:** entitlementProcess
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** EntitlementProcess <br/>
+**DirName:** entitlementProcesses <br/>
+**Suffix:** entitlementProcess <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** EntitlementTemplate
-**DirName:** entitlementTemplates
-**Suffix:** entitlementTemplate
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** EntitlementTemplate <br/>
+**DirName:** entitlementTemplates <br/>
+**Suffix:** entitlementTemplate <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ConnectedApp
-**DirName:** connectedApps
-**Suffix:** connectedApp
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ConnectedApp <br/>
+**DirName:** connectedApps <br/>
+**Suffix:** connectedApp <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** AppMenu
-**DirName:** appMenus
-**Suffix:** appMenu
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** AppMenu <br/>
+**DirName:** appMenus <br/>
+**Suffix:** appMenu <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** DelegateGroup
-**DirName:** delegateGroups
-**Suffix:** delegateGroup
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** DelegateGroup <br/>
+**DirName:** delegateGroups <br/>
+**Suffix:** delegateGroup <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** SiteDotCom
-**DirName:** siteDotComSites
-**Suffix:** site
-**HasMetaFile:** true
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** SiteDotCom <br/>
+**DirName:** siteDotComSites <br/>
+**Suffix:** site <br/>
+**HasMetaFile:** true <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Network
-**DirName:** networks
-**Suffix:** network
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Network <br/>
+**DirName:** networks <br/>
+**Suffix:** network <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CommunityThemeDefinition
-**DirName:** communityThemeDefinitions
-**Suffix:** communityThemeDefinition
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CommunityThemeDefinition <br/>
+**DirName:** communityThemeDefinitions <br/>
+**Suffix:** communityThemeDefinition <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CommunityTemplateDefinition
-**DirName:** communityTemplateDefinitions
-**Suffix:** communityTemplateDefinition
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CommunityTemplateDefinition <br/>
+**DirName:** communityTemplateDefinitions <br/>
+**Suffix:** communityTemplateDefinition <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ManagedTopics
-**DirName:** managedTopics
-**Suffix:** managedTopics
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** ManagedTopic
+**XMLName:** ManagedTopics <br/>
+**DirName:** managedTopics <br/>
+**Suffix:** managedTopics <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:** ManagedTopic <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** KeywordList
-**DirName:** moderation
-**Suffix:** keywords
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** KeywordList <br/>
+**DirName:** moderation <br/>
+**Suffix:** keywords <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** UserCriteria
-**DirName:** userCriteria
-**Suffix:** userCriteria
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** UserCriteria <br/>
+**DirName:** userCriteria <br/>
+**Suffix:** userCriteria <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ModerationRule
-**DirName:** moderation
-**Suffix:** rule
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ModerationRule <br/>
+**DirName:** moderation <br/>
+**Suffix:** rule <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** SamlSsoConfig
-**DirName:** samlssoconfigs
-**Suffix:** samlssoconfig
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** SamlSsoConfig <br/>
+**DirName:** samlssoconfigs <br/>
+**Suffix:** samlssoconfig <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** CorsWhitelistOrigin
-**DirName:** corsWhitelistOrigins
-**Suffix:** corsWhitelistOrigin
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** CorsWhitelistOrigin <br/>
+**DirName:** corsWhitelistOrigins <br/>
+**Suffix:** corsWhitelistOrigin <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** ActionLinkGroupTemplate
-**DirName:** actionLinkGroupTemplates
-**Suffix:** actionLinkGroupTemplate
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** ActionLinkGroupTemplate <br/>
+**DirName:** actionLinkGroupTemplates <br/>
+**Suffix:** actionLinkGroupTemplate <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Skill
-**DirName:** skills
-**Suffix:** skill
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** Skill <br/>
+**DirName:** skills <br/>
+**Suffix:** skill <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** LiveChatDeployment
-**DirName:** liveChatDeployments
-**Suffix:** liveChatDeployment
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** LiveChatDeployment <br/>
+**DirName:** liveChatDeployments <br/>
+**Suffix:** liveChatDeployment <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** LiveChatButton
-**DirName:** liveChatButtons
-**Suffix:** liveChatButton
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** LiveChatButton <br/>
+**DirName:** liveChatButtons <br/>
+**Suffix:** liveChatButton <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** LiveChatAgentConfig
-**DirName:** liveChatAgentConfigs
-**Suffix:** liveChatAgentConfig
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** LiveChatAgentConfig <br/>
+**DirName:** liveChatAgentConfigs <br/>
+**Suffix:** liveChatAgentConfig <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** SynonymDictionary
-**DirName:** synonymDictionaries
-**Suffix:** synonymDictionary
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** SynonymDictionary <br/>
+**DirName:** synonymDictionaries <br/>
+**Suffix:** synonymDictionary <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** PathAssistant
-**DirName:** pathAssistants
-**Suffix:** pathAssistant
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** PathAssistant <br/>
+**DirName:** pathAssistants <br/>
+**Suffix:** pathAssistant <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** LeadConvertSettings
-**DirName:** LeadConvertSettings
-**Suffix:** LeadConvertSetting
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** LeadConvertSettings <br/>
+**DirName:** LeadConvertSettings <br/>
+**Suffix:** LeadConvertSetting <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** LiveChatSensitiveDataRule
-**DirName:** liveChatSensitiveDataRule
-**Suffix:** liveChatSensitiveDataRule
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** LiveChatSensitiveDataRule <br/>
+**DirName:** liveChatSensitiveDataRule <br/>
+**Suffix:** liveChatSensitiveDataRule <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** PlatformCachePartition
-**DirName:** cachePartitions
-**Suffix:** cachePartition
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
+**XMLName:** PlatformCachePartition <br/>
+**DirName:** cachePartitions <br/>
+**Suffix:** cachePartition <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:**  <br/>
 
-<br/>
 ------------
-<br/>
 
-**XMLName:** Settings
-**DirName:** settings
-**Suffix:** settings
-**HasMetaFile:** false
-**InFolder:** false
-**ChildObjects:** 
-
+**XMLName:** Settings <br/>
+**DirName:** settings <br/>
+**Suffix:** settings <br/>
+**HasMetaFile:** false <br/>
+**InFolder:** false <br/>
+**ChildObjects:** <br/>
