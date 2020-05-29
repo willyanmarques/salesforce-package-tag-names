@@ -1,5 +1,5 @@
 
-##  Salesforce XML Tag Names
+##  SALESFORCE PACKAGE TAG NAMES
 
 **XMLName:** InstalledPackage<br/>
 **DirName:** installedPackages<br/>
